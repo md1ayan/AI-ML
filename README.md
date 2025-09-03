@@ -49,7 +49,7 @@ I’m Ayan, a **Computer Science student & an AI enthusiast** passionate about s
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md1ayan/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-ayan-/)  
 - 📧 Email: md.ayanenzo@gmail.com  
 - 🌐 [Portfolio Website](https://portfolio-seven-brown-95.vercel.app/) 
 
